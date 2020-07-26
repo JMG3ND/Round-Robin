@@ -1,0 +1,13 @@
+C:\Users\Jose Gutierrez\source\repos\Round_Robin\bin\Debug\netcoreapp3.1\Round_Robin.exe
+C:\Users\Jose Gutierrez\source\repos\Round_Robin\bin\Debug\netcoreapp3.1\Round_Robin.deps.json
+C:\Users\Jose Gutierrez\source\repos\Round_Robin\bin\Debug\netcoreapp3.1\Round_Robin.runtimeconfig.json
+C:\Users\Jose Gutierrez\source\repos\Round_Robin\bin\Debug\netcoreapp3.1\Round_Robin.runtimeconfig.dev.json
+C:\Users\Jose Gutierrez\source\repos\Round_Robin\bin\Debug\netcoreapp3.1\Round_Robin.dll
+C:\Users\Jose Gutierrez\source\repos\Round_Robin\bin\Debug\netcoreapp3.1\Round_Robin.pdb
+C:\Users\Jose Gutierrez\source\repos\Round_Robin\obj\Debug\netcoreapp3.1\Round_Robin.csprojAssemblyReference.cache
+C:\Users\Jose Gutierrez\source\repos\Round_Robin\obj\Debug\netcoreapp3.1\Round_Robin.AssemblyInfoInputs.cache
+C:\Users\Jose Gutierrez\source\repos\Round_Robin\obj\Debug\netcoreapp3.1\Round_Robin.AssemblyInfo.cs
+C:\Users\Jose Gutierrez\source\repos\Round_Robin\obj\Debug\netcoreapp3.1\Round_Robin.csproj.CoreCompileInputs.cache
+C:\Users\Jose Gutierrez\source\repos\Round_Robin\obj\Debug\netcoreapp3.1\Round_Robin.dll
+C:\Users\Jose Gutierrez\source\repos\Round_Robin\obj\Debug\netcoreapp3.1\Round_Robin.pdb
+C:\Users\Jose Gutierrez\source\repos\Round_Robin\obj\Debug\netcoreapp3.1\Round_Robin.genruntimeconfig.cache
